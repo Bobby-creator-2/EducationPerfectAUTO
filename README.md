@@ -6,5 +6,9 @@ By using my files and codes you acknowledge that I am not responsible for any tr
 # Set Up Guide
 **Dependencies:** Node.js, Puppeteer, Microsoft Edge (if Node.js is blocked from dowload Node.js see, Node.js alternatives)
 
+**Step 1:** Download the .zip file attached and then extract it to your local disk.
+
+**Step 2:**
+
 # Node.js Alternatives
 If you do not want to install node.js use https://replit.com/ and create a node.js Repl and then import the files.
