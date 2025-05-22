@@ -9,4 +9,4 @@ Dependencies: Node.js, Puppeteer, Microsoft Edge (if you do not know how to/bloc
 # Node.js Setup and Alternatives
 If you do not want to install node.js use https://replit.com/ and create a node.js Repl and then import the files.
 
-*Classic Download (may be blocked if you don't have admin):*
+**Classic Download (may be blocked if you don't have admin):**
