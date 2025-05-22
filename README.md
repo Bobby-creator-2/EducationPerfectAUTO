@@ -5,7 +5,13 @@ By using my files and codes you acknowledge that I am not responsible for any tr
 
 **Dependencies:** Node.js, Puppeteer, Microsoft Edge (if Node.js is blocked from dowload Node.js see, Node.js alternatives)
 
-# NOTE: Ignore the README file inside of the folder, it was not made by me and the instructions will not help with my remix.
+# Download Links
+
+These files were too large to upload to GitHub so I have to share them through MediaFire links:
+
+**epbot (classic with auto login):** https://www.mediafire.com/folder/bhb9fzbxksnfl/epbot
+
+**epauto (for non-auto login:** https://www.mediafire.com/folder/937ttezxzugvk/epauto
 
 # Set Up Guide (with auto login)
 
