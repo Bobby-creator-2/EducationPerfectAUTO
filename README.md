@@ -3,9 +3,9 @@ This is a remixed version of https://github.com/s1dny/epbot by s1dney. Updated, 
 This only works for text-based language questions but it **DOES NOT WORK FOR AUDIO QUESTIONS**.
 By using my files and codes you acknowledge that I am not responsible for any trouble or consequences for your actions. **USE AT YOUR OWN RISK**.
 
-# NOTE: Ignore the README file inside of the folder, it was not made by me and the instructions will not help with my remix.
-
 **Dependencies:** Node.js, Puppeteer, Microsoft Edge (if Node.js is blocked from dowload Node.js see, Node.js alternatives)
+
+# NOTE: Ignore the README file inside of the folder, it was not made by me and the instructions will not help with my remix.
 
 # Set Up Guide (with auto login)
 
