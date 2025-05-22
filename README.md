@@ -7,3 +7,6 @@ By using my files and codes you acknowledge that I am not responsible for any tr
 Dependencies: Node.js, Puppeteer, Microsoft Edge (if you do not know how to/blocked from dowload Node.js see, Node.js setup guide)
 
 # Node.js Setup and Alternatives
+If you do not want to install node.js use https://replit.com/ and create a node.js Repl and then import the files.
+
+*Classic Download (may be blocked if you don't have admin):*
