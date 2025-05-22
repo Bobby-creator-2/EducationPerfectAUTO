@@ -4,16 +4,7 @@ This only works for text-based language questions but it **DOES NOT WORK FOR AUD
 By using my files and codes you acknowledge that I am not responsible for any trouble or consequences for your actions. **USE AT YOUR OWN RISK**.
 
 # Set Up Guide
-**Dependencies:** Node.js, Puppeteer, Microsoft Edge (if you do not know how to/blocked from dowload Node.js see, Node.js setup guide)
+**Dependencies:** Node.js, Puppeteer, Microsoft Edge (if Node.js is blocked from dowload Node.js see, Node.js alternatives)
 
-# Node.js Setup and Alternatives
+# Node.js Alternatives
 If you do not want to install node.js use https://replit.com/ and create a node.js Repl and then import the files.
-
-**Classic Download (may be blocked if you don't have admin):**
-
-**Local Download (typically unblocked):**
-
-Step 1: Go to https://nodejs.org/en/download and make sure it is the most recent Node.js version (for optimized results), windows and with npm.
-
-Step 2:
-.\node.exe or
