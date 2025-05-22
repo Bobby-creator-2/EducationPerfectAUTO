@@ -3,7 +3,7 @@ This is a remixed version of https://github.com/s1dny/epbot by s1dney. Updated, 
 This only works for text-based language questions but it **DOES NOT WORK FOR AUDIO QUESTIONS**.
 By using my files and codes you acknowledge that I am not responsible for any trouble or consequences for your actions. **USE AT YOUR OWN RISK**.
 
-**Dependencies:** Node.js, Puppeteer, Microsoft Edge (if Node.js is blocked from dowload Node.js see, Node.js alternatives)
+**Dependencies:** Node.js, Puppeteer, Dotenv, Microsoft Edge (if Node.js is blocked from dowload Node.js see, Node.js alternatives)
 
 # Download Links
 
@@ -29,7 +29,8 @@ guide without auto-login**
 **Step 3:** Open the file and do SHIFT + RIGHT-CLICK -> select "Open command window here". This will open that folder in command prompt. **OR**
 Open your Node.js command prompt and run the command "cd [paste the path of epbot]".
 
-**Step 4:** Run the command, "npm i puppeteer" to install puppeteer and then run the command, "node index.js" and it will open Mircosoft Edge.
+**Step 4:** Run the command, "npm i puppeteer" to install puppeteer, "npm i dotenv" to install dotenv and then run the command, "node index.js" 
+and it will open Mircosoft Edge.
 
 **See Operation/Controls Guide**
 
