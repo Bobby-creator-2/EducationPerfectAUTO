@@ -14,5 +14,6 @@ If you do not want to install node.js use https://replit.com/ and create a node.
 **Local Download (typically unblocked):**
 
 Step 1: Go to https://nodejs.org/en/download and make sure it is the most recent Node.js version (for optimized results), windows and with npm.
+
 Step 2:
 .\node.exe or
