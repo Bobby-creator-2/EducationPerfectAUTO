@@ -9,9 +9,9 @@ By using my files and codes you acknowledge that I am not responsible for any tr
 
 These files were too large to upload to GitHub so I have to share them through MediaFire links:
 
-**epbot (classic with auto login):** https://www.mediafire.com/folder/bhb9fzbxksnfl/epbot
+**epbot (classic with auto login):** https://www.mediafire.com/file/6r5pvxerzk8dewd/epbot.zip/file
 
-**epauto (for non-auto login:** https://www.mediafire.com/folder/937ttezxzugvk/epauto
+**epauto (for non-auto login:** https://www.mediafire.com/file/46unmd3q1qj594u/epauto.zip/file
 
 # Set Up Guide (with auto login)
 
