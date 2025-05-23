@@ -15,7 +15,7 @@ These files were too large to upload to GitHub so I have to share them through M
 
 # Set Up Guide (with auto login)
 
-**Step 1:** Download the file in this repo named "epbot" to your local disk **DO NOT DOWNLOAD EPAUTO**
+**Step 1:** Download the .zip file named "epbot" in the MediaFire link and extract it to your local disk **DO NOT DOWNLOAD EPAUTO**
 
 **Step 2:** Open the epbot folder and right-click index.js -> select "Edit in Notepad". Locate the; "const USERNAME = 'YourUsername/EmailHERE'
 const PASSWORD = 'YourPasswordHERE'" section and edit the section inside the '' with your EP username and Password to set up the Auto Login, 
